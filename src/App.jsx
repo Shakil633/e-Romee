@@ -119,7 +119,7 @@ function App() {
               </a>
             </div>
             <div className="navbar-center hidden lg:flex">
-              <ul className="menu menu-horizontal px-1 text-base font-bold">
+              <ul className="menu menu-horizontal px-1 text-base font-bold lg:ml-[50px] xl:ml-[70px] 2xl:ml-[160px]">
                 <li>
                   <a>Home</a>
                 </li>
@@ -160,7 +160,7 @@ function App() {
               Collection <br />
               2023
             </h2>
-            <p className="py-8 text-base font-normal text-[#535353]">
+            <p className="py-8 text-base font-normal text-[#535353] w-[440px] text-justify">
               Lorem ipsum dolor sit amet consectetur. At ultrices libero et
               congue mauris sed nisl. Eu ac congue arcu urna lorem pellentesque
               nulla quam. Nunc est ornare at tincidunt velit. Elit viverra
